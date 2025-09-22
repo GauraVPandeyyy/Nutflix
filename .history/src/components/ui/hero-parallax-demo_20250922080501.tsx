@@ -1,1 +1,0 @@
-hero-parallax-demo.tsx
