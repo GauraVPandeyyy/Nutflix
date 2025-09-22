@@ -6,14 +6,17 @@ const GallerySection = () => {
     '../../assets/01.jpg',
     '../../assets/02.jpg',
     '../../assets/03.jpg',
-    '../../assets/04.jpg',
-    '../../assets/05.jpg',
-    '../../assets/06.jpg',
-    '../../assets/07.jpg',
-    '../../assets/08.jpg',
-    '../../assets/10.jpg',
-    '../../assets/11.jpg',
-    '../../assets/12.jpg'
+    '../../assets/02.jpg',
+    '../../assets/02.jpg',
+    '../../assets/02.jpg',
+    '../../assets/02.jpg',
+    '../../assets/02.jpg',
+    '/src/assets/03.jpg',
+    '/src/assets/04.jpg',
+    '/src/assets/05.jpg',
+    '/src/assets/06.jpg',
+    '/src/assets/07.jpg',
+    '/src/assets/08.jpg'
   ];
 
  

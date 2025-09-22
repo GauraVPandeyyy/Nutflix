@@ -13,7 +13,14 @@ const GallerySection = () => {
     '../../assets/08.jpg',
     '../../assets/10.jpg',
     '../../assets/11.jpg',
-    '../../assets/12.jpg'
+    '../../assets/08.jpg',
+    '../../assets/08.jpg',
+    '/src/assets/03.jpg',
+    '/src/assets/04.jpg',
+    '/src/assets/05.jpg',
+    '/src/assets/06.jpg',
+    '/src/assets/07.jpg',
+    '/src/assets/08.jpg'
   ];
 
  
