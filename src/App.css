@@ -1,0 +1,15 @@
+/* This file is kept minimal to avoid circular imports */
+
+/* Additional app-specific styles can go here if needed */
+.app-container {
+  min-height: 100vh;
+}
+
+/* Ensure proper font loading fallback */
+.font-serif {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.font-sans {
+  font-family: 'Figtree', sans-serif;
+}
